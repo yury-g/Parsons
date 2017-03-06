@@ -7,10 +7,8 @@
 
 
 ### Helpful Hints
-1. Jean-pierre's original stylesheet expects `<pbcoreCollection>` as the root 
-element, so make sure your xml file has that going on.
- [a detailed document in the wiki for contributing to this 
-project through the Github web interface](http://soundbible.com/royalty-free-sounds-1.html).
+1. Sound Effect for your Game:
+ [soundbible.com/royalty-free-sounds-1.html](http://soundbible.com/royalty-free-sounds-1.html).
 
 
 ```
