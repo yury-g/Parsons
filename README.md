@@ -21,6 +21,10 @@ https://developer.apple.com/library/prerelease/content/documentation/GraphicsAni
 *  Lynda.com Game Swift 3 Course   
 https://www.lynda.com/Swift-tutorials/iOS-Game-Development-Swift-3-SpriteKit/512723-2.html
 
+```
+More Space to Breath, yay !!!
+## 🐯🐰🙈🦁🐶🐱🦊🐯🐰🙈🦁
+```
 
 ### Links Mentioned in Class
 *  Why Apps Get Rejected For UI "Errors", "human-interface-guidelines" are real. :  
