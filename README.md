@@ -3,7 +3,7 @@
 
 
 ### Student Repo's
-* FirstName LastName : https://github.com/yury-g/Parsons
+* Yury Gitman : https://github.com/yury-g/Parsons
 1. FirstName LastName : https://github.com/yury-g/Parsons
 1. FirstName LastName : https://github.com/yury-g/Parsons
 1. FirstName LastName : https://github.com/yury-g/Parsons
