@@ -1,4 +1,4 @@
-#### Parsons iOS, Swift, SpriteKit, Games, Student Work, Knowlegde Sharing, Lecture Links
+#### Parsons iOS, Swift, SpriteKit, Games, Collected Student Work, Knowlegde Sharing, Lecture Links
 
 
 ### Student Repo's
@@ -11,17 +11,21 @@
 
 ```
 Break Up Space with Formatting 
-```
-
-### Required Reading Links Mentioned in Class
-1. Sound Effect for your Game:
- [soundbible.com/royalty-free-sounds-1.html](http://soundbible.com/royalty-free-sounds-1.html).
-
-2. Sound Effect for your Game:
- [soundbible.com/royalty-free-sounds-1.html](http://soundbible.com/royalty-free-sounds-1.html).
-
-
-```
 code looking formatting. 
+
 ```
-### Required Reading Links Mentioned in Class
+
+### Required Reading
+* FirstName LastName : https://github.com/yury-g/Parsons
+* FirstName LastName : https://github.com/yury-g/Parsons
+* FirstName LastName : https://github.com/yury-g/Parsons
+* FirstName LastName : https://github.com/yury-g/Parsons
+* FirstName LastName : https://github.com/yury-g/Parsons
+
+
+### Links Mentioned in Class
+* FirstName LastName : https://github.com/yury-g/Parsons
+* FirstName LastName : https://github.com/yury-g/Parsons
+* FirstName LastName : https://github.com/yury-g/Parsons
+* FirstName LastName : https://github.com/yury-g/Parsons
+* FirstName LastName : https://github.com/yury-g/Parsons
