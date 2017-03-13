@@ -2,13 +2,18 @@
 
 
 ### Student Repo's
-1. FirstName LastName : https://github.com/yury-g/Parsons
+* FirstName LastName : https://github.com/yury-g/Parsons
 1. FirstName LastName : https://github.com/yury-g/Parsons
 1. FirstName LastName : https://github.com/yury-g/Parsons
 1. FirstName LastName : https://github.com/yury-g/Parsons
 1. FirstName LastName : https://github.com/yury-g/Parsons
 
-### Helpful Hints
+
+```
+Break Up Space with Formatting 
+```
+
+### Required Reading Links Mentioned in Class
 1. Sound Effect for your Game:
  [soundbible.com/royalty-free-sounds-1.html](http://soundbible.com/royalty-free-sounds-1.html).
 
@@ -19,3 +24,4 @@
 ```
 code looking formatting. 
 ```
+### Required Reading Links Mentioned in Class
