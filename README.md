@@ -11,8 +11,7 @@
 
 ```
 Break Up Space with Formatting 
-code looking formatting. 
-
+🐶🐱🦊🐯🐰🙈🦁
 ```
 
 ### Required Reading
