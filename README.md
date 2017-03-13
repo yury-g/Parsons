@@ -10,6 +10,7 @@
 * Tanish Karmakar : https://github.com/tanishkarmakar/Creative-Code-2
 *  Ally Keller: https://github.com/allykeller
 
+* Rui Xu : https://github.com/ruigxu
 
 ```
 
