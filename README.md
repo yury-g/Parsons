@@ -18,7 +18,7 @@ Break Up Space with Formatting
 * Swift Lanuage Guide  https://developer.apple.com/library/prerelease/content/documentation/Swift/Conceptual/Swift_Programming_Language/TheBasics.html#//apple_ref/doc/uid/TP40014097-CH5-ID309
 *  SpriteKit Programmming Guide
 https://developer.apple.com/library/prerelease/content/documentation/GraphicsAnimation/Conceptual/SpriteKit_PG/Introduction/Introduction.html#//apple_ref/doc/uid/TP40013043
-*  Lynda.com Game Swift 3 Course
+*  Lynda.com Game Swift 3 Course   
 https://www.lynda.com/Swift-tutorials/iOS-Game-Development-Swift-3-SpriteKit/512723-2.html
 
 
