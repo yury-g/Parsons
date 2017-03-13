@@ -2,7 +2,7 @@
 
 
 ### Student Repo's
-1. FirstName LastName : https://github.com/yury-g/Parsons](https://github.com/yury-g/Parsons) 
+1. FirstName LastName : https://github.com/yury-g/Parsons
 1. FirstName LastName : https://github.com/yury-g/Parsons](https://github.com/yury-g/Parsons) 
 1. FirstName LastName : https://github.com/yury-g/Parsons](https://github.com/yury-g/Parsons) 
 1. FirstName LastName : https://github.com/yury-g/Parsons](https://github.com/yury-g/Parsons) 
