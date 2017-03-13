@@ -33,7 +33,7 @@ https://www.lynda.com/Swift-tutorials/iOS-Game-Development-Swift-3-SpriteKit/512
 ```
 
 More Space to Breath, yay !!!
-                                         🐯🐰🐰🦊🐯🐰🐶🐱🦊🐯🐰🙈🦁🦁            
+                                     🐯🐰🐰🦊🐯🐰🐶🐱🦊🐯🐰🙈🦁🦁            
 
 ```
 
