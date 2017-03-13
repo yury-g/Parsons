@@ -8,8 +8,7 @@
 1. Ally Keller: https://github.com/allykeller
 1. FirstName LastName : https://github.com/yury-g/Parsons
 1. FirstName LastName : https://github.com/yury-g/Parsons
-1. rui xu : https://github.com/ruigxu
-
+4. Tanish Karmakar : https://github.com/tanishkarmakar/Creative-Code-2
 
 
 ```
