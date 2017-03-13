@@ -1,7 +1,8 @@
-# Parsons iOS, Swift, SpriteKit, Games, Collected Student Work, Knowlegde Sharing, Lecture Links
+## Parsons 
+####iOS, Swift, SpriteKit, Games, Collected Student Work, Knowlegde Sharing, Lecture Links
 
 
-## Student Repo's
+### Student Repo's
 * FirstName LastName : https://github.com/yury-g/Parsons
 1. FirstName LastName : https://github.com/yury-g/Parsons
 1. FirstName LastName : https://github.com/yury-g/Parsons
