@@ -1,7 +1,7 @@
-#### Parsons iOS, Swift, SpriteKit, Games, Collected Student Work, Knowlegde Sharing, Lecture Links
+# Parsons iOS, Swift, SpriteKit, Games, Collected Student Work, Knowlegde Sharing, Lecture Links
 
 
-### Student Repo's
+## Student Repo's
 * FirstName LastName : https://github.com/yury-g/Parsons
 1. FirstName LastName : https://github.com/yury-g/Parsons
 1. FirstName LastName : https://github.com/yury-g/Parsons
@@ -10,8 +10,10 @@
 
 
 ```
+
 Break Up Space with Formatting 
 🐶🐱🦊🐯🐰🙈🦁
+
 ```
 
 ### Required Reading
@@ -22,8 +24,10 @@ https://developer.apple.com/library/prerelease/content/documentation/GraphicsAni
 https://www.lynda.com/Swift-tutorials/iOS-Game-Development-Swift-3-SpriteKit/512723-2.html
 
 ```
+
 More Space to Breath, yay !!!
-## 🐯🐰🙈🦁🐶🐱🦊🐯🐰🙈🦁
+## 🐯🐰🐰🦁
+
 ```
 
 ### Links Mentioned in Class
