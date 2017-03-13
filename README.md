@@ -4,11 +4,11 @@
 
 ### Student Repo's
 * Yury Gitman : https://github.com/yury-g/Parsons
-1. James W. Berry : https://github.com/ThatBerryKid
-
-3. Mia Coleman : https://github.com/MiaColeman/
-1. FirstName LastName : https://github.com/yury-g/Parsons
-4. Tanish Karmakar : https://github.com/tanishkarmakar/Creative-Code-2
+* James W. Berry : https://github.com/ThatBerryKid
+* Mia Coleman : https://github.com/MiaColeman/
+* FirstName LastName : https://github.com/yury-g/Parsons*
+* Tanish Karmakar : https://github.com/tanishkarmakar/Creative-Code-2
+*  Ally Keller: https://github.com/allykeller
 
 
 ```
