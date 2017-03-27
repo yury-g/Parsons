@@ -17,6 +17,9 @@ Break Up Space with Formatting
 🐶🐱🦊🐯🐰🙈🦁
 
 ```
+### Assignment Links
+ https://www.lynda.com/Swift-tutorials/Understanding-conditional-statements/504181/566024-4.html?autoplay=true
+
 ```
 
 More Space to Breath, yay !!!
@@ -51,3 +54,11 @@ https://www.lynda.com/Swift-tutorials/Swift-3-Essential-Training-Basics/517449-2
 
 *  Lynda.com  3D Touch Depth  
 https://www.lynda.com/iOS-3D-Touch-tutorials/iOS-9-3D-Touch-Depth/471980-2.html
+
+
+### Topics to Reivew
+Boolean:
+https://www.lynda.com/Swift-tutorials/Boolean-values/504181/566026-4.html?autoplay=true
+
+Optionals:
+https://www.lynda.com/Swift-tutorials/Optionals/504181/566027-4.html?autoplay=true
