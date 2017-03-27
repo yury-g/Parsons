@@ -4,7 +4,7 @@
 ### Proff
 🦁 Yury Gitman : https://github.com/yury-g/Parsons
 
-### Student Repo's  😎
+### Student Repo's  
 * James W. Berry : https://github.com/ThatBerryKid
 * Mia Coleman : https://github.com/MiaColeman/
 * FirstName LastName : https://github.com/yury-g/Parsons
