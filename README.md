@@ -22,13 +22,14 @@ Break Up Space with Formatting
  
  
 ### Topics to Review  🤓
-Boolean:  (All Programming Langs. Binary Relationships. 1000001100001110000111 )
+Boolean:  (All Programming Langs. Binary Relationships.)
 https://www.lynda.com/Swift-tutorials/Boolean-values/504181/566026-4.html?autoplay=true
 
 Optionals: (A Swift thing; "Variables that can 'Optionally' have Values")
 https://www.lynda.com/Swift-tutorials/Optionals/504181/566027-4.html?autoplay=true
 
 Guard
+https://www.lynda.com/Swift-tutorials/Guard-statements/504181/566028-4.html?autoplay=true
 
 
 ```
