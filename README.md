@@ -23,7 +23,7 @@ Programming for Non-Programmers, Calc Project
  
  
 ### Topics to Review  🤓 
-Words of Wisdom on Pedagogy in Today's World 
+Words of Wisdom on Pedagogy in Today's World
 https://www.lynda.com/Swift-tutorials/From-building-blocks-buildings-apps/504181/566033-4.html?autoplay=true
 
 Boolean:  (All Programming Langs. Binary Relationships.)
