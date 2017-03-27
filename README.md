@@ -22,16 +22,16 @@ Break Up Space with Formatting
  
  
 ### Topics to Review  🤓 
-Words of Wisdom on Pedagogy in Today's World
+* Words of Wisdom on Pedagogy in Today's World
 https://www.lynda.com/Swift-tutorials/From-building-blocks-buildings-apps/504181/566033-4.html?autoplay=true
 
-Boolean:  (All Programming Langs. Binary Relationships.)
+* Boolean:  (All Programming Langs. Binary Relationships.)
 https://www.lynda.com/Swift-tutorials/Boolean-values/504181/566026-4.html?autoplay=true
 
-Optionals: (A Swift thing; "Variables that can 'Optionally' have Values")
+* Optionals: (A Swift thing; "Variables that can 'Optionally' have Values")
 https://www.lynda.com/Swift-tutorials/Optionals/504181/566027-4.html?autoplay=true
 
-Guard
+* Guard
 https://www.lynda.com/Swift-tutorials/Guard-statements/504181/566028-4.html?autoplay=true
 
 
