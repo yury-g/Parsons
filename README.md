@@ -2,9 +2,9 @@
 ####iOS, Swift, SpriteKit, Games, Collected Student Work, Knowlegde Sharing, Lecture Links
 
 ### Proff
-* Yury Gitman : https://github.com/yury-g/Parsons
+🦁 Yury Gitman : https://github.com/yury-g/Parsons
 
-### Student Repo's
+### Student Repo's  😎
 * James W. Berry : https://github.com/ThatBerryKid
 * Mia Coleman : https://github.com/MiaColeman/
 * FirstName LastName : https://github.com/yury-g/Parsons
@@ -21,7 +21,7 @@ Break Up Space with Formatting
  https://www.lynda.com/Swift-tutorials/Understanding-conditional-statements/504181/566024-4.html?autoplay=true
  
  
-### Topics to Reivew
+### Topics to Review  🤓
 Boolean:  (All Programming Langs. Binary Relationships. 1000001100001110000111 )
 https://www.lynda.com/Swift-tutorials/Boolean-values/504181/566026-4.html?autoplay=true
 
