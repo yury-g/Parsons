@@ -17,6 +17,13 @@ Break Up Space with Formatting
 🐶🐱🦊🐯🐰🙈🦁
 
 ```
+```
+
+More Space to Breath, yay !!!
+                                     🐯🐰🐰🦊🐯🐰🐶🐱🦊🐯🐰🙈🦁🦁            
+
+```
+
 
 
 ### Required Reading
@@ -30,12 +37,6 @@ https://developer.apple.com/library/prerelease/content/documentation/GraphicsAni
 https://www.lynda.com/Swift-tutorials/iOS-Game-Development-Swift-3-SpriteKit/512723-2.html
 
 
-```
-
-More Space to Breath, yay !!!
-                                     🐯🐰🐰🦊🐯🐰🐶🐱🦊🐯🐰🙈🦁🦁            
-
-```
 
 
 ### Links Mentioned in Class
