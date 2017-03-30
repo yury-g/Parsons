@@ -4,7 +4,7 @@
 ### Proff
 🦁 Yury Gitman : https://github.com/yury-g/Parsons
 
-```
+
 ### Student Repo's  
 * James W. Berry : https://github.com/ThatBerryKid
 * Mia Coleman : https://github.com/MiaColeman/
@@ -12,16 +12,13 @@
 * Tanish Karmakar : https://github.com/tanishkarmakar/Creative-Code-2
 * Rui Xu : https://github.com/ruigxu
 
-```
+
 🐱🦊🐯🐰🙈🦁
 
-```
 * Kabeer : https://github.com/kabeer
 * David Utt: https://github.com/davidutt36
 * Roxy Farkas : https://github.com/rsfarkas/IOS_RoxyFarkas
 
-
-```
 
 
 
