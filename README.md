@@ -4,20 +4,28 @@
 ### Proff
 🦁 Yury Gitman : https://github.com/yury-g/Parsons
 
+```
 ### Student Repo's  
 * James W. Berry : https://github.com/ThatBerryKid
 * Mia Coleman : https://github.com/MiaColeman/
 * FirstName LastName : https://github.com/yury-g/Parsons
 * Tanish Karmakar : https://github.com/tanishkarmakar/Creative-Code-2
 * Rui Xu : https://github.com/ruigxu
+
+```
+🐱🦊🐯🐰🙈🦁
+
+```
 * Kabeer : https://github.com/kabeer
 * David Utt: https://github.com/davidutt36
-```
+* Roxy Farkas : https://github.com/rsfarkas/IOS_RoxyFarkas
 
-Break Up Space with Formatting 
-🐶🐱🦊🐯🐰🙈🦁
 
 ```
+
+
+
+
 ### Assignment Links
 Programming for Non-Programmers, Calc Project
  https://www.lynda.com/Swift-tutorials/Understanding-conditional-statements/504181/566024-4.html?autoplay=true
