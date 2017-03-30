@@ -10,6 +10,7 @@
 * FirstName LastName : https://github.com/yury-g/Parsons
 * Tanish Karmakar : https://github.com/tanishkarmakar/Creative-Code-2
 * Rui Xu : https://github.com/ruigxu
+* Roxy Farkas : https://github.com/rsfarkas/IOS_RoxyFarkas
 
 ```
 
