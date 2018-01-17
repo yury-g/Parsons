@@ -11,8 +11,8 @@
 **gitmany@newschool.edu**
 
 **Office hours by appointment**
+<img src="https://github.com/yury-g/Parsons/blob/master/images/BioPhoto.png" width="550">
 
-![Bilby Stampede](https://github.com/yury-g/Parsons/blob/master/images/BioPhoto.png)
 ---
 
 
