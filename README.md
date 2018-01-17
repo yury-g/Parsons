@@ -1,10 +1,17 @@
-## DIGITAL DEV: IOS & SWIFT - PSAM 5600-C, CRN 3759
+## DIGITAL DEV: IOS & SWIFT - PSAM 3274, CRN 3854
+
 ---
+
 **6 East 16th Street, ROOM 1202**
+
 **Fridays 12:10-2:50 PM, Spring 2018**
+
 **Yury Gitman**
+
 **gitmany@newschool.edu**
+
 **Office hours by appointment**
+
 ---
 There are no formal prerequisites to this course but it is strongly suggested to have taken a class using object-oriented programming in Processing, Open Frameworks, or other environment or language. A class on game design or Unity will also help. Lectures will consist of programming workshops and lectures on historical and contemporary topics. Assignments will consist of code prototypes turned in via github and a polished midterm and final demonstrating an understanding of the techniques used in the class with a unique voice. 
 #### Learning Outcomes: 
