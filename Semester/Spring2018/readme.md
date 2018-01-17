@@ -31,10 +31,9 @@ Students will:
 #### Participation/Research: 
 Students are expected to show up to class on time, turn in assignments, be respectful to one another and put in their best effort in pursuing the class material. More than three unexcused absences is grounds for at least a letter-grade deduction.
 #### Prototypes/Homework: 
-Prototypes are small responses to challenges to be turned in via github with links posted on the class wiki. They usually will involve either hacking provided code, adapting provided code to a new framework, or a creative/conceptual/aesthetic challenge. Homework will often differ based on the skill level of the student.
+Prototypes are small responses to challenges assigned in-class. They usually will involve either hacking provided code, adapting provided code to a new framework, or a creative/conceptual/aesthetic challenge. Homework will often differ based on the skill level of the student.
 #### Final Project: 
-
-The final project is a game project that explores in depth at least one technical area of the course and one conceptual (rendering aesthetics, procedural rhetoric). It should be built in one of the tools used in the class or one approved by me.
+The final project is a game project that explores in depth at least one technical area of the course and one conceptual (rendering aesthetics, procedural rhetoric). It should be built in one of the tools used in the class or OK'ed by instructor.
 
 
 #### Class Values:
