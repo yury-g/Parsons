@@ -45,32 +45,34 @@ The final project is a game project that explores in depth at least one technica
 
 #### Weekly Schedule:
 
-Week 1- 1/28: Class intro, C++ and iostream, basic OOP, terminal interface
+Week 1- 1/26: Class intro, terminal interface with Swift, Attemp iPhone connect. 
 
-Week 2- 2/4: Text adventures, interactive fiction, twine, text parsers, input-driven game loops
+Week 2- 2/2: Create Sprites With Touch and Touches. SceneKit Introducted. Drawing App. Connect For Touch Code.
 
-Week 3- 2/11: Code vs. data, file I/O, hacky tile editor, grid mechanics
+Week 3- 2/9: SceneKit & Swift Reviewed.
 
-Week 4- 2/18: Text-based user interfaces, converting the grid, Rogue
+Week 4- 2/16: Using SceneKit an ARKit: Project Part 1
 
-Week 5- 2/25: Procedural generation, cellular automata, agents, binary space partition trees
+Week 5- 2/23: Using SceneKit an ARKit: Project Part 2
 
-Week 6- 3/3: Sprites, sprite sheets, sprite batching, Atari 2600, NES limitations, ofxSpriteSheetRenderer
+Week 6- 3/2: Student-Inspired Midterm Project. Use the skills that you learned to make a fun game. 
 
-Week 7- 3/10: AI, ad hoc lists, state machines, decision trees, A* pathfinding, Pac-Man AI
+Week 7- 3/9: Playtest Session, Workshop on Project In-class.
 
-Week 8- 3/17: P5, P5Play, Haxe intro
+Week 8- 3/16: Present and Document your Project
 
-Week 9- 3/31: Raycast rendering
+Week 9- 3/23: SpringBreak 🌞
 
-Week 10- 4/7: Isometric rendering
+Week 10- 3/30: Tactic Engine Framework
 
-Week 11- 4/14: Dynamic sound
+Week 11- 4/6: TouchDepth FrameWork
 
-Week 12- 4/21: State machines
+Week 12- 4/13: Propose your own game. Make 3 Prototypes.
 
-Week 13- 4/28: Juiciness
+Week 13- 4/20: Playtest and Workshop in-class. 
 
-Week 14- 5/5: Final work
+Week 14- 4/27: Playtest and Workshop in-class.
 
-Week 15- 5/12: Final due
+Week 15- 5/4: Playtest and Workshop in-class.
+
+Week 15- 5/11: Final due
