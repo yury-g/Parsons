@@ -12,7 +12,7 @@
 
 **Office hours by appointment**
 
-![Bilby Stampede](http://example.com/images/logo.png)
+![Bilby Stampede](https://github.com/yury-g/Parsons/blob/master/images/BioPhoto.png)
 ---
 
 
