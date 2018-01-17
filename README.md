@@ -13,18 +13,19 @@
 **Office hours by appointment**
 
 ---
-There are no formal prerequisites to this course but it is strongly suggested to have taken a class using object-oriented programming in Processing, Open Frameworks, or other environment or language. A class on game design or Unity will also help. Lectures will consist of programming workshops and lectures on historical and contemporary topics. Assignments will consist of code prototypes turned in via github and a polished midterm and final demonstrating an understanding of the techniques used in the class with a unique voice. 
+
+This class assumes no prior programming knowledge. This class required a desire to learn to program interactive expereicnes on iPhones and iPads.  We build a new prototypes every week. Students create and maintain projects on their own Laptops. 
 
 ---
 #### Learning Outcomes: 
 Students will:
-* develop a critical understanding of game frameworks and their relationship to creative output
-* develop experiments with classic approaches to rendering, AI, and procedural generation
-* gain an introductory look at a number of different game programming frameworks
-* build experimental game prototypes focused around systems aesthetics 
+* TDB
+* TDB
+* TDB
+* TDB 
 #### Assessment Criteria:	
-* Class participation/research: 20%
-* Prototypes/homework: 50%
+* Class participation/research: 30%
+* Prototypes/homework: 40%
 * Final project: 30%
 #### Participation/Research: 
 Students are expected to show up to class on time, turn in assignments, be respectful to one another and put in their best effort in pursuing the class material. More than three unexcused absences is grounds for at least a letter-grade deduction.
@@ -38,11 +39,10 @@ The final project is a game project that explores in depth at least one technica
 #### Class Values:
 
 * Speaking in class happens. 
-* Develop skills and help other develop their skills.
-* Prototypes are Theory in Action
-* Simplicity is your friend 
-* Time, and attention, is your most valuable resource. 
-* Find the aesthetic possibilities in a myriad of formal constraints
+* Develop skills and help others develop their skills.
+* Prototypes are "Theory in Action".
+* Simplicity is your friend in this course. 
+* Time and attention, are your most valuable resource. 
 
 
 ---
