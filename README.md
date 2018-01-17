@@ -85,7 +85,9 @@ Week 15- 5/11: Final due
 
 ---
 
-Thank you Bryan Ma! 
-https://github.com/whoisbma/Game-Aesthetics-SP16 for Awesome Course ReadMe.md   👈Attribution 
+Thank you Bryan Ma!
+
+https://github.com/whoisbma/Game-Aesthetics-SP16 
+for Awesome Course ReadMe.md 
 
 ---
