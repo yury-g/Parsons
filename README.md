@@ -1,79 +1,84 @@
-## Parsons 
-####iOS, Swift, SpriteKit, Games, Collected Student Work, Knowlegde Sharing, Lecture Links
+## DIGITAL DEV: IOS & SWIFT - PSAM 5600-C, CRN 3759
 
-### Proff
-🦁 Yury Gitman : https://github.com/yury-g/Parsons
+---
 
+**6 East 16th Street, ROOM 1202**
 
-### Student Repo's  
-* James W. Berry : https://github.com/ThatBerryKid
-* Mia Coleman : https://github.com/MiaColeman/
-* FirstName LastName : https://github.com/yury-g/Parsons
-* Tanish Karmakar : https://github.com/tanishkarmakar/Creative-Code-2
-* Rui Xu : https://github.com/ruigxu
+**Fridays 12:10-2:50 PM, Spring 2018**
 
+**Yury Gitman**
 
-🐱🦊🐯🐰🙈🦁
+**gitmany@newschool.edu**
 
-* Kabeer : https://github.com/kabeer
-* David Utt: https://github.com/davidutt36
-* Roxy Farkas : https://github.com/rsfarkas/IOS_RoxyFarkas
+**Office hours by appointment**
 
+---
 
+There are no formal prerequisites to this course but it is strongly suggested to have taken a class using object-oriented programming in Processing, Open Frameworks, or other environment or language. A class on game design or Unity will also help. Lectures will consist of programming workshops and lectures on historical and contemporary topics. Assignments will consist of code prototypes turned in via github and a polished midterm and final demonstrating an understanding of the techniques used in the class with a unique voice. 
 
+#### Learning Outcomes: 
 
+Students will:
 
-### Assignment Links
-Programming for Non-Programmers, Calc Project
- https://www.lynda.com/Swift-tutorials/Understanding-conditional-statements/504181/566024-4.html?autoplay=true
- 
- 
-### Topics to Review  🤓 
-Words of Wisdom on Pedagogy in Today's World
-https://www.lynda.com/Swift-tutorials/From-building-blocks-buildings-apps/504181/566033-4.html?autoplay=true
+* develop a critical understanding of game frameworks and their relationship to creative output
+* develop experiments with classic approaches to rendering, AI, and procedural generation
+* gain an introductory look at a number of different game programming frameworks
+* build experimental game prototypes focused around systems aesthetics 
 
-Boolean:  (All Programming Langs. Binary Relationships.)
- https://www.lynda.com/Swift-tutorials/Boolean-values/504181/566026-4.html?autoplay=true
+#### Assessment Criteria:	
 
-Optionals: (A Swift thing; "Variables that can 'Optionally' have Values") 
-https://www.lynda.com/Swift-tutorials/Optionals/504181/566027-4.html?autoplay=true
+* Class participation/research: 20%
+* Prototypes/homework: 50%
+* Final project: 30%
 
-Guard 
-https://www.lynda.com/Swift-tutorials/Guard-statements/504181/566028-4.html?autoplay=true
+#### Participation/Research: 
 
+Students are expected to show up to class on time, turn in assignments, be respectful to one another and put in their best effort in pursuing the class material. More than three unexcused absences is grounds for at least a letter-grade deduction.
 
-```
+#### Prototypes/Homework: 
 
-More Space to Breath, yay !!!
-                                     🐯🐰🐰🦊🐯🐰🐶🐱🦊🐯🐰🙈🦁🦁            
+Prototypes are small responses to challenges to be turned in via github with links posted on the class wiki. They usually will involve either hacking provided code, adapting provided code to a new framework, or a creative/conceptual/aesthetic challenge. Homework will often differ based on the skill level of the student.
 
-```
+#### Final Project: 
 
+The final project is a game project that explores in depth at least one technical area of the course and one conceptual (rendering aesthetics, procedural rhetoric). It should be built in one of the tools used in the class or one approved by me.
 
+#### Class Values:
 
-### Required Reading
-* Swift Lanuage Guide   
-https://developer.apple.com/library/prerelease/content/documentation/Swift/Conceptual/Swift_Programming_Language/TheBasics.html#//apple_ref/doc/uid/TP40014097-CH5-ID309
+* Understand our tools better
+* Limitations -> Creativity
+* Don’t take the easy way out
+* Don’t resort to cliche
+* Find the aesthetic possibilities in a myriad of formal constraints
 
-*  SpriteKit Programmming Guide   
-https://developer.apple.com/library/prerelease/content/documentation/GraphicsAnimation/Conceptual/SpriteKit_PG/Introduction/Introduction.html#//apple_ref/doc/uid/TP40013043
+#### Weekly Schedule:
 
-*  Lynda.com Game Swift 3 Course   
-https://www.lynda.com/Swift-tutorials/iOS-Game-Development-Swift-3-SpriteKit/512723-2.html
+Week 1- 1/28: Class intro, C++ and iostream, basic OOP, terminal interface
 
+Week 2- 2/4: Text adventures, interactive fiction, twine, text parsers, input-driven game loops
 
+Week 3- 2/11: Code vs. data, file I/O, hacky tile editor, grid mechanics
 
+Week 4- 2/18: Text-based user interfaces, converting the grid, Rogue
 
-### Links Mentioned in Class
-*  Why Apps Get Rejected For UI "Errors", "human-interface-guidelines" are real.   
-https://developer.apple.com/ios/human-interface-guidelines/overview/design-principles/
+Week 5- 2/25: Procedural generation, cellular automata, agents, binary space partition trees
 
-*  Video's of Apple's WWDC Events:  
-https://developer.apple.com/videos/
+Week 6- 3/3: Sprites, sprite sheets, sprite batching, Atari 2600, NES limitations, ofxSpriteSheetRenderer
 
-*  Lynda.com Swift 3 Essential Training  
-https://www.lynda.com/Swift-tutorials/Swift-3-Essential-Training-Basics/517449-2.html
+Week 7- 3/10: AI, ad hoc lists, state machines, decision trees, A* pathfinding, Pac-Man AI
 
-*  Lynda.com  3D Touch Depth  
-https://www.lynda.com/iOS-3D-Touch-tutorials/iOS-9-3D-Touch-Depth/471980-2.html
+Week 8- 3/17: P5, P5Play, Haxe intro
 
+Week 9- 3/31: Raycast rendering
+
+Week 10- 4/7: Isometric rendering
+
+Week 11- 4/14: Dynamic sound
+
+Week 12- 4/21: State machines
+
+Week 13- 4/28: Juiciness
+
+Week 14- 5/5: Final work
+
+Week 15- 5/12: Final due
