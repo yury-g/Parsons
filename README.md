@@ -4,7 +4,8 @@
 **6 East 16th Street, ROOM 1202**
 
 **Fridays 12:10-2:50 PM, Spring 2018**
---
+
+---
 
 <img src="https://github.com/yury-g/Parsons/blob/master/images/BioPhoto.png" width="150">
 
