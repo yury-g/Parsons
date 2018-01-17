@@ -14,6 +14,8 @@
 
 ---
 There are no formal prerequisites to this course but it is strongly suggested to have taken a class using object-oriented programming in Processing, Open Frameworks, or other environment or language. A class on game design or Unity will also help. Lectures will consist of programming workshops and lectures on historical and contemporary topics. Assignments will consist of code prototypes turned in via github and a polished midterm and final demonstrating an understanding of the techniques used in the class with a unique voice. 
+
+---
 #### Learning Outcomes: 
 Students will:
 * develop a critical understanding of game frameworks and their relationship to creative output
@@ -43,6 +45,7 @@ The final project is a game project that explores in depth at least one technica
 * Find the aesthetic possibilities in a myriad of formal constraints
 
 
+---
 #### Weekly Schedule:
 
 Week 1- 1/26: Class intro, terminal interface with Swift, Attemp iPhone connect. 
@@ -76,3 +79,10 @@ Week 14- 4/27: Playtest and Workshop in-class.
 Week 15- 5/4: Playtest and Workshop in-class.
 
 Week 15- 5/11: Final due
+
+---
+
+
+---
+Thank you https://github.com/whoisbma/Game-Aesthetics-SP16 for awesome ReadMe.md   👈attribution 
+---
