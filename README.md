@@ -81,10 +81,8 @@ Week 15- 5/4: Playtest and Workshop in-class.
 Week 15- 5/11: Final due
 
 ---
-
-
+👏 
 ---
-
 Thank you Bryan Ma!
 I used your awesome "course in a git-repo" format.   
 https://github.com/whoisbma/Game-Aesthetics-SP16 
