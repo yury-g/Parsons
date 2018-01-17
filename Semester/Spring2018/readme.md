@@ -17,7 +17,6 @@
 
 This class is for learning how to program iPhone or iPad games and experiences.  We build new prototypes every week. Students create and maintain projects on their own laptops or gitHub. This class assumes no prior programming knowledge. Requires a desire to learn. 
 
----
 
 ---
 #### Weekly Schedule:
