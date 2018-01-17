@@ -25,9 +25,9 @@ Students will:
 * TDB
 * TDB 
 #### Assessment Criteria:	
-* Class participation/research: 30%
+* Class participation/research: 35%
 * Prototypes/homework: 40%
-* Final project: 30%
+* Final project: 25%
 #### Participation/Research: 
 Students are expected to show up to class on time, turn in assignments, be respectful to one another and put in their best effort in pursuing the class material. More than three unexcused absences is grounds for at least a letter-grade deduction.
 #### Prototypes/Homework: 
