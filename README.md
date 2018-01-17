@@ -84,7 +84,8 @@ Week 15- 5/11: Final due
 
 👏 
 
-Thank you Bryan Ma, for your awesome "course in a git-repo" approach. Very very nice work.   
+Thank you Bryan Ma, for your awesome "course in a git-repo" approach.  
 https://github.com/whoisbma/Game-Aesthetics-SP16 
+Your repo directly inspired this repo. 
 
 ---
