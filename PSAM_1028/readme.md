@@ -1,11 +1,11 @@
 
-## DIGITAL DEV: IOS & SWIFT - PSAM 3274, CRN 3854
+## DIGITAL DEV: IOS & SWIFT - PSAM 1028, CRN 5060
 
 ---
 
-**6 East 16th Street, ROOM 1202**
+**6 East 16th Street, ROOM 703**
 
-**Fridays 12:10-2:50 PM, Spring 2018**
+**Thursdays 7:00-9:40 PM, Spring 2018**
 
 **Yury Gitman**
 
