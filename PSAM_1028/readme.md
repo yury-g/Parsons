@@ -29,19 +29,7 @@ Web Design Basics is designed to introduce students to programming as a creative
 * Time and attention, are your most valuable resource. 
 
 
-#### Learning Outcomes 
-By the successful completion of this course, students will be able to:
-● Concept projects that use interactivity and code in a creative way. 
-● Demonstrate knowledge of fundamental programming concepts. 
-● Evaluate how typography is applied to interactive systems to facilitate orientation, usability and to create consistency. 
-● Develop several visual & interactive projects. 
-● Objectively present their design process and workflow. 
-● Integrate a variety of media elements into their projects. 
-● Problem solve with other students through reading other students’ code. 
-● Demonstrate the ability to research and learn unfamiliar technical topics.
-● Research historic and current design precedents to contextualize their work.
-
---Additional Outcomes
+####  Additional Outcomes
 ● Write and Read HTML in any environment. 
 ● Write and Read CSS in any environment. 
 ● Write and Read Javascript in any environment. 
