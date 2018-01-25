@@ -28,7 +28,7 @@ Web Design Basics is designed to introduce students to programming as a creative
 * Time and attention are today's users' most limited resource.  
 
 
-#### Required Reading
+#### Required Reading:
 A Playful Introduction to Programming.  by Nick Morgan
 https://www.amazon.com/JavaScript-Kids-Playful-Introduction-Programming/dp/1593274084/
 
