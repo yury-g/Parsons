@@ -21,19 +21,11 @@ Web Design Basics is designed to introduce students to programming as a creative
 
 
 #### Class Values:
-
 * Speaking in class happens. 
 * Develop skills and help others develop their skills.
 * Prototypes are "Theory in Action".
 * Simplicity is your friend in this course. 
-* Time and attention, are your most valuable resource. 
-
-
-####  Additional Outcomes
-● Write and Read HTML in any environment. 
-● Write and Read CSS in any environment. 
-● Write and Read Javascript in any environment. 
-● Feel comfortable using GitHub to host your coding projects.
+* Time and attention are today's users' most limited resource.  
 
 
 #### Required Reading
