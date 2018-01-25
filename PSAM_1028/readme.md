@@ -1,5 +1,5 @@
 
-## DIGITAL DEV: IOS & SWIFT - PSAM 1028, CRN 5060
+## Web Basics - PSAM 1028, CRN 5060
 
 ---
 
