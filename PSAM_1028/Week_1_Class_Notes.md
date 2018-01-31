@@ -112,5 +112,13 @@ clouds += 555
 clouds
 655
 
+
+var clouds = 100
+undefined
+clouds *= 5
+500
+clouds /= 2
+250
+
 ```
 
