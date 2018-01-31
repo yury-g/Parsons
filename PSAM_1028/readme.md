@@ -1,4 +1,4 @@
-Web Basics - PSAM 1028, CRN 506
+***Web Basics - PSAM 1028, CRN 506
 
 6 East 16th Street, ROOM 703
 
