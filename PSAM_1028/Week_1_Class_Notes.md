@@ -134,5 +134,5 @@ Let's Talk about Strings
 
 ```
 
-Yay! your reached the bottom! 🤓
+Yay! You reached the bottom! 🤓
 
