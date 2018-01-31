@@ -11,6 +11,15 @@ Cool Resource: https://jsfiddle.net/
 Magic Words in Chrome: about:blank
 
 '''
+
+'''
+
+More realistic form:
+
+```ruby
+require 'github/markup'
+
+
 In Console Type:
 3 + 5
 > 8
@@ -27,12 +36,7 @@ false
 "ABCDEFGHIJK".slice(0,4);
 > "ABCD"
 </code>
-'''
 
-More realistic form:
-
-```ruby
-require 'github/markup'
 
 GitHub::Markup.render(file, File.read(file))
 ```
