@@ -58,3 +58,8 @@ https://www.amazon.com/JavaScript-Kids-Playful-Introduction-Programming/dp/15932
 
 <img src="https://github.com/kmirabelli/PSAM_1028/raw/master/profile.jpg" width="100"> Katelyn Mirabelli: https://github.com/kmirabelli/PSAM_1028
 
+
+<img src="https://images.duckduckgo.com/iu/?u=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fb%2Fb8%2FTheory_of_Need_and_Want.png&f=1" width="100"> Rufus Stott: https://github.com/rufusst/PSAM_1028
+
+
+
