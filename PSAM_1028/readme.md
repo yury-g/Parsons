@@ -32,5 +32,9 @@ Web Design Basics is designed to introduce students to programming as a creative
 A Playful Introduction to Programming.  by Nick Morgan
 https://www.amazon.com/JavaScript-Kids-Playful-Introduction-Programming/dp/1593274084/
 
-
 ---
+
+
+#### Students
+Priyanka Bhagat: https://github.com/bhagp173/PSAM_1028/
+Mang Yee Marlise Chu:  https://github.com/marlisee/PSAM_1028
