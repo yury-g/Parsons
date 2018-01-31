@@ -40,26 +40,26 @@ https://www.amazon.com/JavaScript-Kids-Playful-Introduction-Programming/dp/15932
 
 
 
-<img src="https://camo.githubusercontent.com/c113ca2344166b8ead2a328b25187225282deb20/68747470733a2f2f73636f6e74656e742e666e7963312d312e666e612e666263646e2e6e65742f762f7433312e302d382f31383037373037335f31303231323831353739353732393634375f383036363732343533333530333931323731355f6f2e6a70673f6f683d3935663965353531353666663763363266326133393334633562356365623863266f653d3541454133393335" heigth="100">  Mang Yee Marlise Chu:  https://github.com/marlisee/PSAM_1028
+<img src="https://camo.githubusercontent.com/c113ca2344166b8ead2a328b25187225282deb20/68747470733a2f2f73636f6e74656e742e666e7963312d312e666e612e666263646e2e6e65742f762f7433312e302d382f31383037373037335f31303231323831353739353732393634375f383036363732343533333530333931323731355f6f2e6a70673f6f683d3935663965353531353666663763363266326133393334633562356365623863266f653d3541454133393335" height="100">  Mang Yee Marlise Chu:  https://github.com/marlisee/PSAM_1028
 
 
 
-<img src="https://github.com/tonimarie98/PSAM_1028/blob/master/Screen%20Shot%202018-01-25%20at%209.09.09%20PM.png" heigth="100">  Toni Conliffe:  https://github.com/tonimarie98/PSAM_1028
+<img src="https://github.com/tonimarie98/PSAM_1028/blob/master/Screen%20Shot%202018-01-25%20at%209.09.09%20PM.png" height="100">  Toni Conliffe:  https://github.com/tonimarie98/PSAM_1028
 
 
-<img src="https://github.com/owenkrzyzaniak/PSAM_1028/raw/master/Photo%20on%204-17-17%20at%201.58%20PM%20%233.jpg" heigth="100">  Owen Krzyzaniak Geary:  https://github.com/owenkrzyzaniak/PSAM_1028
+<img src="https://github.com/owenkrzyzaniak/PSAM_1028/raw/master/Photo%20on%204-17-17%20at%201.58%20PM%20%233.jpg" height="100">  Owen Krzyzaniak Geary:  https://github.com/owenkrzyzaniak/PSAM_1028
 
 
-<img src="https://camo.githubusercontent.com/781b3af34f6a554496733e12d08193480e7d7fd1/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f336b6e7a5436393473595669772f67697068792e676966" heigth="100">  Helen Kwak:  https://github.com/owenkrzyzaniak/PSAM_1028
+<img src="https://camo.githubusercontent.com/781b3af34f6a554496733e12d08193480e7d7fd1/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f336b6e7a5436393473595669772f67697068792e676966" height="100">  Helen Kwak:  https://github.com/owenkrzyzaniak/PSAM_1028
 
 
-<img src="https://images.duckduckgo.com/iu/?u=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fb%2Fb8%2FTheory_of_Need_and_Want.png&f=1" heigth="100"> Matt McLoughlin: https://github.com/mattmcloughlinnyc/PSAM_1028
+<img src="https://images.duckduckgo.com/iu/?u=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fb%2Fb8%2FTheory_of_Need_and_Want.png&f=1" height="100"> Matt McLoughlin: https://github.com/mattmcloughlinnyc/PSAM_1028
 
 
-<img src="https://github.com/kmirabelli/PSAM_1028/raw/master/profile.jpg" heigth="100"> Katelyn Mirabelli: https://github.com/kmirabelli/PSAM_1028
+<img src="https://github.com/kmirabelli/PSAM_1028/raw/master/profile.jpg" height="100"> Katelyn Mirabelli: https://github.com/kmirabelli/PSAM_1028
 
 
-<img src="https://images.duckduckgo.com/iu/?u=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fb%2Fb8%2FTheory_of_Need_and_Want.png&f=1" heigth="100"> Rufus Stott: https://github.com/rufusst/PSAM_1028
+<img src="https://images.duckduckgo.com/iu/?u=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fb%2Fb8%2FTheory_of_Need_and_Want.png&f=1" height="100"> Rufus Stott: https://github.com/rufusst/PSAM_1028
 
-<img src="https://images.duckduckgo.com/iu/?u=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fb%2Fb8%2FTheory_of_Need_and_Want.png&f=1" heigth="100"> Jiawei Zhang: https://github.com/zhanj378/PSAM_1028
+<img src="https://images.duckduckgo.com/iu/?u=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fb%2Fb8%2FTheory_of_Need_and_Want.png&f=1" height="100"> Jiawei Zhang: https://github.com/zhanj378/PSAM_1028
 
