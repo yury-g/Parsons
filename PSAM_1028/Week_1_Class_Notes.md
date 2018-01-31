@@ -28,3 +28,20 @@ false
 > "ABCD"
 </code>
 '''
+
+More realistic form:
+
+```ruby
+require 'github/markup'
+
+GitHub::Markup.render(file, File.read(file))
+```
+
+And a convenience form:
+
+```ruby
+require 'github/markup'
+
+GitHub::Markup.render_s(GitHub::Markups::MARKUP_MARKDOWN, "* One\n* Two")
+```
+
