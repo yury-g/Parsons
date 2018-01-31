@@ -37,7 +37,22 @@ And Proceed From Here:
 ```ruby
 
 
-XYZ
+"Operators are: +,-,*,/"
+>  "Operators are: +,-,*,/"
+"Operators 'perform and operation'"
+>  "Operators 'perform and operation'"
+"Math Blunders"
+>  "Math Blunders"
+10 / 5 + 5
+>  7
+10 / (5 + 5)
+>  1
+(10 / 5) + 5
+>  7
+"The Answer: User ( and ) "
+>  "The Answer: User ( and ) "
+"====================="
+
 
 
 
