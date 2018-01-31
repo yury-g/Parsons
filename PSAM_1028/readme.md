@@ -7,9 +7,11 @@
 ---
 
 
-<img src="https://avatars1.githubusercontent.com/u/12190048?s=460&v=4" width="100"> **Professor: Yury Gitman** https://github.com/yury-g
-
+<img src="https://avatars1.githubusercontent.com/u/12190048?s=460&v=4" width="100"> https://github.com/yury-g
+ **Professor: Yury Gitman**
+ 
 **gitmany@newschool.edu**
+
 **Office hours by appointment**
 
 ---
