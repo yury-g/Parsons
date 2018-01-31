@@ -56,3 +56,5 @@ https://www.amazon.com/JavaScript-Kids-Playful-Introduction-Programming/dp/15932
 <img src="https://wpexpert.com.au/wp-content/uploads/2013/03/404.png" width="100"> Matt McLoughlin: https://github.com/mattmcloughlinnyc/PSAM_1028
 
 
+<img src="https://github.com/kmirabelli/PSAM_1028/raw/master/profile.jpg" width="100"> Katelyn Mirabelli: https://github.com/kmirabelli/PSAM_1028
+
