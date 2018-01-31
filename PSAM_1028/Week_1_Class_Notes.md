@@ -11,13 +11,10 @@ Cool Resource: https://jsfiddle.net/
 Magic Words in Chrome: about:blank
 
 
-More realistic form:
+In Console Type:
 
 ```ruby
-require 'github/markup'
 
-
-In Console Type:
 3 + 5
 > 8
 "Hi, I'm an String"
@@ -32,10 +29,7 @@ false
 > 11
 "ABCDEFGHIJK".slice(0,4);
 > "ABCD"
-</code>
 
-
-GitHub::Markup.render(file, File.read(file))
 ```
 
 And a convenience form:
