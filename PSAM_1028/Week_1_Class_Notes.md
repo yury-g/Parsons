@@ -14,7 +14,7 @@ From Our Textbook Pages 1-39
 In Console Type:
 
 ```ruby
-
+// Meet Numbers and "Strings"
 3 + 5
 > 8
 "Hi, I'm an String"
