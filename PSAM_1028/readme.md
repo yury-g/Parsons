@@ -1,7 +1,7 @@
 
-## Web Basics - PSAM 1028, CRN 5060##
-##6 East 16th Street, ROOM 703##
-##Thursdays 7:00-9:40 PM, Spring 2018##
+## Web Basics - PSAM 1028, CRN 506
+6 East 16th Street, ROOM 703
+Thursdays 7:00-9:40 PM, Spring 2018##
 ---
 
 Professor:
