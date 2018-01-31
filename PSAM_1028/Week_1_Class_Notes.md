@@ -88,5 +88,29 @@ myAge * secondsInAYear
 3122064000
 
 
+//  Operators "Short Cuts"
+
+var clouds = 100
+
+++clouds
+101
+++clouds
+102
+--clouds
+101
+--clouds
+100
+clouds++
+100
+clouds
+101
+clouds--
+101
+clouds
+100
+clouds += 555
+clouds
+655
+
 ```
 
