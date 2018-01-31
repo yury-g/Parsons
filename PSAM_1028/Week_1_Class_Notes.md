@@ -122,3 +122,17 @@ clouds /= 2
 
 ```
 
+Let's Talk about Strings
+
+```ruby
+
+
+"Hi, I'm an String"
+> "Hi, I'm an String"
+"ABCDEFGHIJK".slice(0,4);
+> "ABCD"
+
+```
+
+And Proceed From Here:
+
