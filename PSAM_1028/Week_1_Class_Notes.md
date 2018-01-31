@@ -10,11 +10,11 @@ Cool Resource: https://jsfiddle.net/
 
 Magic Words in Chrome: about:blank
 
-
+From Our Textbook Pages 1-39->
 In Console Type:
 
 ```ruby
-//pages 1-39 in class textbook
+
 3 + 5
 > 8
 "Hi, I'm an String"
