@@ -32,11 +32,14 @@ false
 
 ```
 
-And a convenience form:
+And Proceed From Here:
 
 ```ruby
-require 'github/markup'
 
-GitHub::Markup.render_s(GitHub::Markups::MARKUP_MARKDOWN, "* One\n* Two")
+
+XYZ
+
+
+
 ```
 
