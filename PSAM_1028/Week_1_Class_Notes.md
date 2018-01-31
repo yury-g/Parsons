@@ -14,7 +14,7 @@ Magic Words in Chrome: about:blank
 In Console Type:
 
 ```ruby
-
+//pages 1-39 in class textbook
 3 + 5
 > 8
 "Hi, I'm an String"
