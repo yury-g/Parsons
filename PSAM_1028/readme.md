@@ -36,7 +36,7 @@ https://www.amazon.com/JavaScript-Kids-Playful-Introduction-Programming/dp/15932
 
 
 #### Students
-<img src="https://wpexpert.com.au/wp-content/uploads/2013/03/404.png" width="20"> Priyanka Bhagat: https://github.com/bhagp173/PSAM_1028/
+<img src="https://wpexpert.com.au/wp-content/uploads/2013/03/404.png" width="50"> Priyanka Bhagat: https://github.com/bhagp173/PSAM_1028/
 
 
 
@@ -44,7 +44,7 @@ https://www.amazon.com/JavaScript-Kids-Playful-Introduction-Programming/dp/15932
 
 
 
-<img src="https://github.com/tonimarie98/PSAM_1028/blob/master/Screen%20Shot%202018-01-25%20at%209.09.09%20PM.png" width="20">  Toni Conliffe:  https://github.com/tonimarie98/PSAM_1028
+<img src="https://github.com/tonimarie98/PSAM_1028/blob/master/Screen%20Shot%202018-01-25%20at%209.09.09%20PM.png" width="100">  Toni Conliffe:  https://github.com/tonimarie98/PSAM_1028
 
 
 
