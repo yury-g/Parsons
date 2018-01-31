@@ -10,9 +10,6 @@ Cool Resource: https://jsfiddle.net/
 
 Magic Words in Chrome: about:blank
 
-'''
-
-'''
 
 More realistic form:
 
