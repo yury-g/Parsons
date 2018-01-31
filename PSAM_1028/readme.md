@@ -36,7 +36,7 @@ https://www.amazon.com/JavaScript-Kids-Playful-Introduction-Programming/dp/15932
 
 
 #### Students
-<img src="https://wpexpert.com.au/wp-content/uploads/2013/03/404.png" width="100"> Priyanka Bhagat: https://github.com/bhagp173/PSAM_1028/
+<img src="https://images.duckduckgo.com/iu/?u=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fb%2Fb8%2FTheory_of_Need_and_Want.png&f=1" width="100"> Priyanka Bhagat: https://github.com/bhagp173/PSAM_1028/
 
 
 
@@ -53,7 +53,7 @@ https://www.amazon.com/JavaScript-Kids-Playful-Introduction-Programming/dp/15932
 <img src="https://camo.githubusercontent.com/781b3af34f6a554496733e12d08193480e7d7fd1/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f336b6e7a5436393473595669772f67697068792e676966" width="100">  Helen Kwak:  https://github.com/owenkrzyzaniak/PSAM_1028
 
 
-<img src="https://wpexpert.com.au/wp-content/uploads/2013/03/404.png" width="100"> Matt McLoughlin: https://github.com/mattmcloughlinnyc/PSAM_1028
+<img src="https://images.duckduckgo.com/iu/?u=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fb%2Fb8%2FTheory_of_Need_and_Want.png&f=1" width="100"> Matt McLoughlin: https://github.com/mattmcloughlinnyc/PSAM_1028
 
 
 <img src="https://github.com/kmirabelli/PSAM_1028/raw/master/profile.jpg" width="100"> Katelyn Mirabelli: https://github.com/kmirabelli/PSAM_1028
