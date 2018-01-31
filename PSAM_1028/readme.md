@@ -1,11 +1,10 @@
-
-## Web Basics - PSAM 1028, CRN 506
+Web Basics - PSAM 1028, CRN 506
 6 East 16th Street, ROOM 703
-Thursdays 7:00-9:40 PM, Spring 2018##
----
+Thursdays 7:00-9:40 PM, Spring 2018
 
-Professor:
-<img src="https://avatars1.githubusercontent.com/u/12190048?s=460&v=4" width="100"> **Yury Gitman** https://github.com/yury-g
+
+
+<img src="https://avatars1.githubusercontent.com/u/12190048?s=460&v=4" width="100"> **Professor: Yury Gitman** https://github.com/yury-g
 
 **gitmany@newschool.edu**
 **Office hours by appointment**
