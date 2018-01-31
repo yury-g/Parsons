@@ -10,7 +10,7 @@ Cool Resource: https://jsfiddle.net/
 
 Magic Words in Chrome: about:blank
 
-From Our Textbook Pages 1-39->
+From Our Textbook Pages 1-39
 In Console Type:
 
 ```ruby
