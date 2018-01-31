@@ -10,7 +10,7 @@ Cool Resource: https://jsfiddle.net/
 
 Magic Words in Chrome: about:blank
 
-
+<code>
 In Console Type:
 3 + 5
 > 8
@@ -26,3 +26,4 @@ false
 > 11
 "ABCDEFGHIJK".slice(0,4);
 > "ABCD"
+</code>
