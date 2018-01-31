@@ -47,5 +47,9 @@ https://www.amazon.com/JavaScript-Kids-Playful-Introduction-Programming/dp/15932
 <img src="https://github.com/tonimarie98/PSAM_1028/blob/master/Screen%20Shot%202018-01-25%20at%209.09.09%20PM.png" width="100">  Toni Conliffe:  https://github.com/tonimarie98/PSAM_1028
 
 
+<img src="https://github.com/owenkrzyzaniak/PSAM_1028/raw/master/Photo%20on%204-17-17%20at%201.58%20PM%20%233.jpg" width="100">  Owen Krzyzaniak Geary:  https://github.com/owenkrzyzaniak/PSAM_1028
+
+
+<img src="https://camo.githubusercontent.com/781b3af34f6a554496733e12d08193480e7d7fd1/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f336b6e7a5436393473595669772f67697068792e676966" width="100">  Helen Kwak:  https://github.com/owenkrzyzaniak/PSAM_1028
 
 
