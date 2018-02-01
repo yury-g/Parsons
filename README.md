@@ -8,17 +8,10 @@
 - [x]  Office hours by appointment
 
 
-```
- Parsons, the New School for Design
-
- gitmany@newschool.edu
-
- Office hours by appointment
-```
 
 
 ```
-**Navigate To A folder Above 👆
+**Navigate To A Class via Above Folders 👆
 ```
 
 
