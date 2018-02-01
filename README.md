@@ -16,7 +16,7 @@
 
 
 ---
-```HTML
+```html
 👏 
 
 Thank you Bryan Ma, for your awesome "course in a git-repo" approach.  
