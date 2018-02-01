@@ -3,16 +3,18 @@
 
 ## Yury Gitman
 
-## Parsons, the New School for Design
+```
+ Parsons, the New School for Design
 
-## gitmany@newschool.edu
+ gitmany@newschool.edu
 
-## Office hours by appointment
+ Office hours by appointment
+```
 
 
 
+**Navigate To A folder Above 👆
 
-#### Navigate To A folder Above 👆
 
 ---
 👏 
