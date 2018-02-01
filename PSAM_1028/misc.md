@@ -39,8 +39,8 @@ firstLetterOfFirstName
 Continue This Code to: 
 +  Use another name.  
 +  Make a new variable that holds a Middle Name. 
-+  Make a new variable that holds a Monogramme. 
-      (A Monograme is "JFK" for "John F Kennedy"
++  **Make a new variable to hold a 3 Character called Monogram.** 
+      (A Monograme is "JFK" for "John F Kennedy")
   
  **If you finish in class you are done. Do the next reading before the next class.** 
 
