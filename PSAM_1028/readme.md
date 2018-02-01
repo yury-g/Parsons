@@ -62,3 +62,14 @@ https://www.amazon.com/JavaScript-Kids-Playful-Introduction-Programming/dp/15932
 
 <img src="https://images.duckduckgo.com/iu/?u=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fb%2Fb8%2FTheory_of_Need_and_Want.png&f=1" width="100"> Jiawei Zhang: https://github.com/zhanj378/PSAM_1028
 
+
+
+
+---
+
+👏 
+Thank you Bryan Ma, for your awesome "course in a git-repo" approach.  
+https://github.com/whoisbma/Game-Aesthetics-SP16 
+Your repo directly inspired this repo. 
+
+
