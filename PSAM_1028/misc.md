@@ -1,6 +1,6 @@
 Check that your photos displays on class github page. https://github.com/yury-g/Parsons/tree/master/PSAM_1028
 
-```
+```ruby
 5 + 7 
 12
 
