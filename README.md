@@ -5,6 +5,8 @@
 ### gitmany@newschool.edu
 ### Office hours by appointment
 
+
+
 #### Navigate To A folder Above 👆
 
 ---
