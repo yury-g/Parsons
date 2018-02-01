@@ -4,8 +4,11 @@
 **Yury Gitman**
 
 **Parsons, the New School for Design.**
+
 **gitmany@newschool.edu**
+
 **Office hours by appointment**
+
 
 
 
