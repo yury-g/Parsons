@@ -3,7 +3,8 @@
 
 Use Chrome, our your IDE of choice. 
 
-MarkUp on Github:  https://github.com/github/markup
+Basic MarkDown on Github:  https://help.github.com/articles/basic-writing-and-formatting-syntax/
+Mastering MarkDown on Github: https://guides.github.com/features/mastering-markdown/
 
 Cool Resource: https://jsfiddle.net/
 
