@@ -9,7 +9,7 @@ Mastering MarkDown on Github: https://guides.github.com/features/mastering-markd
 Cool Resource: https://jsfiddle.net/
 
 
-Magic Words in Chrome: about:blank
+Magic Words in Chrome: **about:blank
 
 From Our Textbook Pages 1-39
 In Console Type:
