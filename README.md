@@ -3,6 +3,11 @@
 
 ## Yury Gitman
 
+- [x]  Parsons, the New School for Design
+- [x]  gitmany@newschool.edu
+- [x]  Office hours by appointment
+
+
 ```
  Parsons, the New School for Design
 
