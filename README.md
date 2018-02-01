@@ -2,13 +2,13 @@
 <img src="https://github.com/yury-g/Parsons/blob/master/images/BioPhoto.png" width="100">
 
 ## Yury Gitman
-##Parsons, the New School for Design
-## gitmany@newschool.edu
-## Office hours by appointment
+### Parsons, the New School for Design
+### gitmany@newschool.edu
+### Office hours by appointment
 
 
 
-Navigate To A folder Above 👆
+#### Navigate To A folder Above 👆
 
 
 
