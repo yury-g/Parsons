@@ -31,6 +31,8 @@ Web Design Basics is designed to introduce students to programming as a creative
 A Playful Introduction to Programming.  by Nick Morgan
 https://www.amazon.com/JavaScript-Kids-Playful-Introduction-Programming/dp/1593274084/
 
+#### Recommended Reading:
+https://github.com/marijnh/Eloquent-JavaScript
 ---
 
 
