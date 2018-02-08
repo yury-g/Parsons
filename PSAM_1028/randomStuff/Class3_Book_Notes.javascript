@@ -116,6 +116,13 @@ lastColorRemoved
 
 colorArray
 
+// Concat Arrays 
+var ledColorArray = ["Red","Green","Blue"]
+var grayscaleArray = ["White","Gray","Black"]
+var myLargeColorArray = colorArray.concat(grayscaleArray)
+
+myLargeColorArray
+
 
 
 
