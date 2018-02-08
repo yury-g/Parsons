@@ -8,7 +8,9 @@ myFruitArray[0] = "Pinapple"
 
 myFruitArray
 
+// Add a Big Number
 myFruitArray[10] = "Zookeyknee"
 "Zookeyknee"
 
+// See What happens
 myFruitArray
