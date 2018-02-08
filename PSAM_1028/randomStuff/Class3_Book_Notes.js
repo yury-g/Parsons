@@ -51,3 +51,19 @@ myNestArrayOfFruit = ["","",""]
 myNestArrayOfFruit = [["","",""],["","",""],["","","]]
 
 myNestArrayOfFruit = [["Apple","Red","Worm"],["Banana","Yellow","Bruise"],["Cucumber","Green","Freezer Burn"]]
+
+//Calling Elements
+myNestArrayOfFruit[0][0]
+
+myNestArrayOfFruit[0]
+
+myNestArrayOfFruit[0][1]
+
+//Changing Elements
+myNestArrayOfFruit[2][2] = "Crispy"
+
+myNestArrayOfFruit
+
+
+
+
