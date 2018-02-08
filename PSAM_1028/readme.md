@@ -50,6 +50,8 @@ https://github.com/marijnh/Eloquent-JavaScript
 
 <img src="https://github.com/tonimarie98/PSAM_1028/blob/master/Screen%20Shot%202018-01-25%20at%209.09.09%20PM.png" width="100">  Toni Conliffe:  https://github.com/tonimarie98/PSAM_1028
 
+<img src="https://raw.githubusercontent.com/bawak963/PSAM_1028/master/Karen-Gabay%202.jpg" width="100">  Karen Gabay:
+https://github.com/bawak963/PSAM_1028
 
 <img src="https://github.com/owenkrzyzaniak/PSAM_1028/raw/master/Photo%20on%204-17-17%20at%201.58%20PM%20%233.jpg" width="100">  Owen Krzyzaniak Geary:  https://github.com/owenkrzyzaniak/PSAM_1028
 
