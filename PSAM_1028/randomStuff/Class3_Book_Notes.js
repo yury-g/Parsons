@@ -65,5 +65,24 @@ myNestArrayOfFruit[2][2] = "Crispy"
 myNestArrayOfFruit
 
 
+// .push adds Elements to END of Array
+var mySimpleFruitArray = []
+undefined
+mySimpleFruitArray.push("Apple")
+mySimpleFruitArray.push("Banana")
+mySimpleFruitArray.push("Carrot")
+3
+mySimpleFruitArray
 
+mySimpleFruitArray[3] = ["Secret","Data","Hidden In Here"]
+
+mySimpleFruitArray
+
+mySimpleFruitArray[3][2] = "Or is It?"
+
+mySimpleFruitArray
+
+mySimpleFruitArray[3][4] = "Well Now It Over Here"
+
+mySimpleFruitArray
 
