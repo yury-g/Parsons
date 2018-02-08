@@ -86,6 +86,8 @@ mySimpleFruitArray[3].push = "Well Now It Over Here"
 
 mySimpleFruitArray
 
+
+
 // ADD ELEMENT TO Front, Shift it All Down
 var colorArray = ["Red","Green","Blue"]
 
@@ -96,5 +98,10 @@ colorArray
 colorArray.unshift("Gray")
 
 colorArray
-(5) ["Gray", "Yellow", "Red", "Green", "Blue"]
+
+
+
+
+
+
 
