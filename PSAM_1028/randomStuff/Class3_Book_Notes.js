@@ -41,16 +41,13 @@ lastElementInArray
 // 
 // Not All Array Elements Need To Be of Same Type
 // Let's nest and array into an array
-undefined
+
 var myNestArrayOfFruit = []
-undefined
+
 myNestArrayOfFruit
-[]length: 0__proto__: Array(0)
+
 myNestArrayOfFruit = ["","",""]
-(3) ["", "", ""]
+
 myNestArrayOfFruit = [["","",""],["","",""],["","","]]
-VM379:1 Uncaught SyntaxError: Invalid or unexpected token
-myNestArrayOfFruit = [["","",""],["","",""],["","",""]]
-(3) [Array(3), Array(3), Array(3)]0: (3) ["", "", ""]1: (3) ["", "", ""]2: (3) ["", "", ""]length: 3__proto__: Array(0)
+
 myNestArrayOfFruit = [["Apple","Red","Worm"],["Banana","Yellow","Bruise"],["Cucumber","Green","Freezer Burn"]]
-(3) [Array(3), Array(3), Array(3)]
