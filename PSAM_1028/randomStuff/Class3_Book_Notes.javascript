@@ -141,3 +141,36 @@ myLargeColorArray
 myLargeColorArray.join(" is Prettier than ")
 myLargeColorArray
 
+
+Math.random()
+0.
+Math.random()
+0.8136751191539822
+Math.random()
+0.5734336545313281
+Math.random() * 10
+7.424817178733816
+Math.random() * 10
+4.307165405948091
+Math.floor(4.999)
+4
+// Make a random number between 0-10
+undefined
+var randomOneAndTen = Math.floor(Math.random()*10)
+undefined
+randomOneAndTen
+1
+// random between 0-1
+Math.floor(Math.random()*4)
+2
+Math.floor(Math.random()*4)
+3
+// random number between 0-100
+undefined
+Math.floor(Math.random()*100)
+0
+Math.floor(Math.random()*100)
+36
+Math.floor(Math.random()*100)
+75
+
