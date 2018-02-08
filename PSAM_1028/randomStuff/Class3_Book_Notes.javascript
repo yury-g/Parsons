@@ -174,3 +174,21 @@ Math.floor(Math.random()*100)
 Math.floor(Math.random()*100)
 75
 
+
+
+
+//
+//  Gym Trainer Code (run code a few times)
+//
+var pepTalkPhrase = ["Yes", "Keep Going", "You Are Doing It","Keep It Up", "Go!"]
+var gymActivties = ["Lift","Bike","Jump","Run","Zuma"]
+var randomPep = pepTalkPhrase[Math.floor(Math.random()*4)]
+var randomAction = gymActivties[Math.floor(Math.random()*4)]
+
+var fullTrainerPhrase = randomPep + " with your " + randomAction + " action!!!"
+
+fullTrainerPhrase
+
+
+
+
