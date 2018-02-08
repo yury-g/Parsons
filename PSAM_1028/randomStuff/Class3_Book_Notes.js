@@ -82,7 +82,19 @@ mySimpleFruitArray[3][2] = "Or is It?"
 
 mySimpleFruitArray
 
-mySimpleFruitArray[3][4] = "Well Now It Over Here"
+mySimpleFruitArray[3].push = "Well Now It Over Here"
 
 mySimpleFruitArray
+
+// ADD ELEMENT TO Front, Shift it All Down
+var colorArray = ["Red","Green","Blue"]
+
+colorArray.unshift("Yellow")
+
+colorArray
+
+colorArray.unshift("Gray")
+
+colorArray
+(5) ["Gray", "Yellow", "Red", "Green", "Blue"]
 
