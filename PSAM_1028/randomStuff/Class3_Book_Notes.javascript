@@ -124,9 +124,20 @@ var myLargeColorArray = ledColorArray.concat(grayscaleArray)
 myLargeColorArray
 
 
+//get indexOf and Element
+myLargeColorArray.indexOf("blue")
+-1
+myLargeColorArray.indexOf("Blue")
+2
+
+//  Array As String 
 
 
+var ledColorArray = ["Red","Green","Blue"]
+var grayscaleArray = ["White","Gray","Black"]
+var myLargeColorArray = ledColorArray.concat(grayscaleArray)
+myLargeColorArray
 
-
-
+myLargeColorArray.join(" is Prettier than ")
+myLargeColorArray
 
