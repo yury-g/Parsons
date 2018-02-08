@@ -99,6 +99,23 @@ colorArray.unshift("Gray")
 
 colorArray
 
+// .pop REMOVING Elements From END An Array
+colorArray
+
+colorArray.pop
+
+colorArray
+
+colorArray
+
+colorArray.pop()
+
+var lastColorRemoved = colorArray.pop()
+
+lastColorRemoved
+
+colorArray
+
 
 
 
