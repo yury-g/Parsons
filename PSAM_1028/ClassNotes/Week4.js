@@ -6,7 +6,7 @@
 <body>
 
 
-<p>The is just "normal" text.  - ABC - </p>
+<p>I'm BEFORE the script </p>
 
 <script type="text/javascript">
 	
@@ -14,14 +14,14 @@ var myPhrase = "Hello Earthlings"
 console.log(myPhrase)
 
 
-var name = prompt("What is your name?")  // press both canel and ok in prompt.
+var name = prompt("What is your name?")
 console.log("hello  " + name + " welcome.")
 
 </script>
 
-<h1>This is the Biggest Heading  - ABC -  </h1>
-<h2>This is the 2nd Biggest Heading  - ABC -  </h2>
+<p>I'm AFTER the script </p>
 
 
 </body>
 </html>
+
