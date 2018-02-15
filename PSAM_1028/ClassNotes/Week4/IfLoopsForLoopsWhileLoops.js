@@ -1,0 +1,33 @@
+
+var hasFangs = false
+var hasClaws = false
+var canSpeakHumanLanguage = false
+
+if (hasFangs){
+
+console.log("OK it has fangs!")
+	
+} else {
+
+console.log("It has NO fangs! Good!")
+	
+}
+
+
+
+if (hasFangs && hasClaws){
+
+console.log("I could be an animal or a monster")
+	
+}  else if (hasFangs  && canSpeakHumanLanguage){
+
+	console.log("That's a vampire or wearwolf!")
+	
+}  else if ( hasClaws && canSpeakHumanLanguage){
+
+
+} else {
+
+console.log(" Ok, well don't panic")
+	
+}
