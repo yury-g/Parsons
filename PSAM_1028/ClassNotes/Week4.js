@@ -2,12 +2,12 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Here Is the Page Title!!! 🤓 </title>
+	<title>Here Is the Page Title!!! ABC </title>
 </head>
 <body>
 
 
-<p>The is just "normal" text.  - 😎 - </p>
+<p>The is just "normal" text.  - ABC - </p>
 
 <script type="text/javascript">
 	
@@ -20,8 +20,8 @@ console.log("hello" + name)
 
 </script>
 
-<h1>This is the Biggest Heading  - 🤨 -  </h1>
-<h2>This is the 2nd Biggest Heading  - 🧐 -  </h2>
+<h1>This is the Biggest Heading  - ABC -  </h1>
+<h2>This is the 2nd Biggest Heading  - ABC -  </h2>
 
 
 </body>
