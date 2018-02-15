@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 <html>
 <head>
@@ -16,7 +15,7 @@ console.log(myPhrase)
 
 
 var name = prompt("What is your name?")
-console.log("hello" + name)
+console.log("hello  " + name + " welcome.")
 
 </script>
 
@@ -26,7 +25,3 @@ console.log("hello" + name)
 
 </body>
 </html>
-
-
-
-----------------------------
