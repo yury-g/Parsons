@@ -31,3 +31,10 @@ console.log("I could be an animal or a monster")
 console.log(" Ok, well don't panic")
 	
 }
+
+
+var timesToSayHello
+for (var i = 0;  i < timesToSayHello; i++) {
+	console.log("Hello !")
+	timesToSayHello++
+}
