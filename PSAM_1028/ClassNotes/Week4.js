@@ -14,7 +14,7 @@ var myPhrase = "Hello Earthlings"
 console.log(myPhrase)
 
 
-var name = prompt("What is your name?")
+var name = prompt("What is your name?")  // press both canel and ok in prompt.
 console.log("hello  " + name + " welcome.")
 
 </script>
