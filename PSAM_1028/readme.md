@@ -67,7 +67,7 @@ https://github.com/bawak963/PSAM_1028
 
 <img src="https://github.com/rufusst/PSAM_1028/blob/master/lphoto.jpg?raw=true" width="100"> Rufus Stott: https://github.com/rufusst/PSAM_1028
 
-<img src="https://images.duckduckgo.com/iu/?u=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fb%2Fb8%2FTheory_of_Need_and_Want.png&f=1" width="100"> Jiawei Zhang: https://github.com/zhanj378/PSAM_1028
+<img src="https://github.com/zhanj378/PSAM_1028/blob/master/joyce_photo.jpg" width="100"> Jiawei Zhang: https://github.com/zhanj378/PSAM_1028
 
 
 
