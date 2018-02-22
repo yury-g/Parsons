@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>The Most Common HTML Tags in Use </title>
+</head>
+<body>
+
+
+<p>The is just "normal" text.  - 😎 - </p>
+
+<script type="text/javascript">
+	
+var myPhrase = "Hello Earthlings"
+console.log(myPhrase)
+</script>
+
+<h1>This is the Biggest Heading  </h1>
+<h2>This is the 2nd Biggest Heading   </h2>
+<h3>This is the 3rd Biggest Heading  </h3>
+<h4>This is the 4th Biggest Heading  </h4>
+
+<p></p>
+<p>-----------------------</p>
+<p>-- And Now In Action --</p>
+<p>-----------------------</p>
+
+
+<h1>The Crushing Bore</h1>
+
+<p>By Chris Mills</p>
+
+<h2>Chapter 1: The dark night</h2>
+
+<p>It was a dark night. Somewhere, an owl hooted. The rain lashed down on the ...</p>
+
+<h2>Chapter 2: The eternal silence</h2>
+
+<p>Our protagonist could not so much as a whisper out of the shadowy figure ...</p>
+
+<h3>The specter speaks</h3>
+
+<p>Several more hours had passed, when all of a sudden the specter sat bolt upright and exclaimed, "Please have mercy on my soul!"</p>
+
+
+<p>-----------------------</p>
+<p>-- HyperLinks --</p>
+<p>-----------------------</p>
+
+
+<a href="http://b.parsons.edu/~gitmany/">This Goes to Google</a>
+<a href="http://b.parsons.edu/~gitmany/">This Goes to my b.parsons.edu account</a>
+
+<p>-----------------------</p>
+<p>-- Hello Break Element --</p>
+<p>-----------------------</p>
+
+John Smith<br> c/o Jane Smythe<br> 123 Main St.<br> Northeast Southwestershire, XY 12345 
+
+<br>
+<br>
+<br>
+
+<a href="http://b.parsons.edu/~gitmany/">This Goes to Google</a> <br>
+<a href="http://b.parsons.edu/~gitmany/">This Goes to my b.parsons.edu account</a> <br>
+<a href="http://b.parsons.edu/~gitmany/" title="This Goes b.parson.edu/ ">Hover Mouse Over This link</a> <br>
+
+<br><br><br>
+<p>-----------------------</p>
+<p>-- Hello Image Tag --</p>
+<p>-----------------------</p>
+<br>
+
+
+
+<br>
+<img src="http://b.parsons.edu/~gitmany/images/DocumentTreeStructure-HTML.png" width="480" alt="200 width">
+<br>
+
+<img src="http://b.parsons.edu/~gitmany/images/html-image-tag-elements.png" width="480" alt="200 width">
+<br>
+
+<img src="http://b.parsons.edu/~gitmany/images/html-iage-tag-elements.png" width="400" alt="External Text for Usablity">
+
+
+<br><br><br>
+<p>-----------------------</p>
+<p>-- Image Inside A Link --</p>
+<p>-----------------------</p>
+<br>
+
+<a href="http://b.parsons.edu/~gitmany/">
+  <img src="https://github.com/yury-g/Parsons/blob/master/images/BioPhoto.png?raw=true" alt="Headshot" style="width:100px">
+</a>
+<a href="http://b.parsons.edu/~gitmany/">
+  <img src="https://github.com/yury-g/Parsons/blob/master/images/BioPhoto.png?raw=true" alt="Headshot" style="width:50px">
+</a>
+<a href="http://b.parsons.edu/~gitmany/">
+  <img src="https://github.com/yury-g/Parsons/blob/master/images/BioPhoto.png?raw=true" alt="Headshot" style="width:25px">
+</a>
+
+</body>
+</html>
