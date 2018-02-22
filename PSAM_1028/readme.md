@@ -40,7 +40,7 @@ https://github.com/marijnh/Eloquent-JavaScript
 
 
 #### Students
-<img src="https://images.duckduckgo.com/iu/?u=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fb%2Fb8%2FTheory_of_Need_and_Want.png&f=1" width="100"> Priyanka Bhagat: https://github.com/bhagp173/PSAM_1028/
+<img src="https://github.com/bhagp173/PSAM_1028/raw/master/IMG_5519.jpg" width="100"> Priyanka Bhagat: https://github.com/bhagp173/PSAM_1028/
 
 
 
