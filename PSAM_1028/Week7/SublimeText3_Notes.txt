@@ -1,5 +1,35 @@
 
-Lynda Tutuoral Available to current Parsons students
+Lynda Tutuoral Available to current Parsons students.
+More 
 https://www.lynda.com/Sublime-Text-tutorials/Welcome/513594/566097-4.html
 
-1
+1 InterFace Tour
+- Numbering 
+- GrayArea Triangles for seeing nesting <tag></tag>
+- Status Bar (selection and operations)
+- Panel Switcher, 
+      Find Replace
+      Console
+- Sytanx Highlighting, Bottom left, or save file with extention. 
+- MiniMap
+    Shaded shows what's in focus
+    navigate large files
+    
+1.1  Opening Files. 
+       drag and drop
+       shift command t = reopen recent file
+       command N = New Tab
+       Tab Switching 
+          Option-Command ArrowKey
+          Shift-Command [ or ]  (System Wide)
+
+
+1.5 Editing
+
+
+2 Customizing
+
+
+3 Power Edting
+
+
