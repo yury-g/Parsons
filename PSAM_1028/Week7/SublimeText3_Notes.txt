@@ -21,12 +21,20 @@ https://www.lynda.com/Sublime-Text-tutorials/Welcome/513594/566097-4.html
        command N = New Tab
        Tab Switching 
           Option-Command ArrowKey
-          Shift-Command [ or ]  (System Wide)
-
+          Shift-Command [ or ]  (Mac System Wide)
+        Command P (open's file palete)(navigate files) (quick search start typing )
+        GOTO Switch Files
 
 1.5 Editing
-
-
+      View > SpellCheck  (your text) (misspell and try) (right/click to fix red ziggylines) 
+      <tag></tag> are highlighted if you move curser into one of them.
+      
+1.6 Viewing 
+      View > Layout > 2 coloum.
+      Then change back
+      Command F > Search  (Mac System Wide)
+      
+      
 2 Customizing
 
 
