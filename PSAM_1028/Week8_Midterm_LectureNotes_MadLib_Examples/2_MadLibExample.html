@@ -1,0 +1,22 @@
+<!--MadLibExample.HTML-->
+
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Mad Lib Example </title>
+</head>
+<body>
+
+<h1 id="main-heading">Mad Lib Example</h1>
+
+<script type="text/javascript">
+	
+var headingElement = document.getElementById('main-heading')
+console.log(headingElement.innerHTML)
+var newHeadingText = prompt("What's your name?")
+headingElement.innerHTML = `Hello ${newHeadingText}, nice to meet you.`
+</script>
+
+</body>
+</html>
+

@@ -1,0 +1,28 @@
+<!--Mad Lib with Jquery.HTML, load on server, try in chrome to look at elements too-->
+
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Mad Lib with Jquery </title>
+</head>
+<body>
+
+<h1 id="main-heading">Mad Lib Example</h1>
+
+<script src = "https://code.jquery.com/jquery-3.3.1.js"></script>
+<script>
+	
+// prompt user	
+var newHeadingText = prompt("What's your name?")
+var friendsName = newHeadingText
+$("#main-heading").text("That's neat, my freind's name is  " + friendsName + " too!")
+
+// Add stuff to the body
+$("body").append("<p> This is a new Paragraph </p>")
+// $("body") selects body
+// ".append" adds String as "HTML" to the body
+
+</script>
+
+</body>
+</html>

@@ -1,0 +1,30 @@
+//promptAndFill.html
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Mad Libs Prompt and Fill Example</title>
+</head
+<body>
+
+	<h1 id="main-heading">Mad Libs Prompt and Fill Example</h1>
+
+<script src = "https://code.jquery.com/jquery-3.3.1.js"></script>
+<script>
+
+//
+
+ var WordType = [" Noun ", " Verb ", " Noun ", " Adjective"]	
+ var userReply = ["","", "cabin"]
+
+
+ for (var i = 0; i < WordType.length; i++) {
+
+userReply[i] = prompt("Please suggest a")
+$("body").append("<p> The " + WordType[i] + " you selected was " + userReply[i] +"</p>")
+
+ }
+
+</script>
+
+</body>
+</html>

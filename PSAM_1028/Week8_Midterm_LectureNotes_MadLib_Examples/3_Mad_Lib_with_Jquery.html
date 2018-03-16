@@ -1,0 +1,32 @@
+<!--Mad Lib with Jquery.HTML, load on server, try in chrome to look at elements too-->
+
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Mad Lib with Jquery </title>
+</head>
+<body>
+
+<h1 id="main-heading">Mad Lib Example</h1>
+
+<script src = "https://code.jquery.com/jquery-3.3.1.js"></script>
+<script>
+	
+// prompt user	
+var newHeadingText = prompt("What's your name?")
+//pull out text from prompt
+//  $("#main-heading").text("Hi " + newHeadingText + " nice to meet you!")
+// add again, another way
+var friendsName = newHeadingText
+$("#main-heading").text("That's neat, my freind's name is  " + friendsName + " too!")
+
+/*--The "$" function takes one argument. called the "selector string"
+this tells jQueary which element(s) to select from the DOM tree. #main-heading in this case. 
+The "#" in the selector string means "id" character
+
+the $ function returns a jQuery object that represents the elments you selected. , h1 in this case. 
+*/
+</script>
+
+</body>
+</html>

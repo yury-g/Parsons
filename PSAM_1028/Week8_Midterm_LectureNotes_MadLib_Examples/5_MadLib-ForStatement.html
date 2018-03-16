@@ -1,0 +1,40 @@
+<!--Mad Lib with Jquery.HTML, load on server, try in chrome to look at elements too-->
+
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Mad Lib FOR Jquery </title>
+</head>
+<body>
+
+<h1 id="main-heading">Mad Lib Example</h1>
+
+<script src = "https://code.jquery.com/jquery-3.3.1.js"></script>
+<script>
+
+for (var i = 0; i < 3; i++) {
+//1	$("body").append("<p>" + i + "</p>")
+
+//2
+//$("body").append("<p> The Index Number is " + i + ", OK!</p>")
+	
+
+//3
+$("body").append("<p> The Index Number is <b>" + i + "</b>. OK!</p>")
+
+}
+
+ var Things = [" Noun ", " Verb ", " Noun ", " Adjective"]	
+ for (var i = 0; i < Things.length; i++) {
+	
+$("body").append("<p> The word type you selected is " + Things[i] +"</p>")
+
+	
+
+// 	Things[i]
+ }
+
+</script>
+
+</body>
+</html>
