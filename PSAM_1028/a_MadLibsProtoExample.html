@@ -1,0 +1,48 @@
+
+<!-- a_MadLib_Prototype.html-->
+
+<!DOCTYPE html>
+<html>
+<head>
+	<!--TITLE ID-->
+	<title id="title">MMadLib_Prototype</title>
+</head
+<body>
+
+	<!-- Heading "id"	-->
+	<h1 id="main-heading">"The __1___ TV!"  </h1>
+	<h3> A Madlib story made by you. </h3>
+
+<script src = "https://code.jquery.com/jquery-3.3.1.js"></script>
+<script>
+ var WordType = ["Adjective", "Noun", "Verb", "Adjective"]	
+ var userReply = ["","", "cabin"]
+ for (var i = 0; i < WordType.length; i++) { 
+    userReply[i] = prompt("Can you think of a " + WordType[i] + " ?" )
+ }
+
+// Change title by 'ID'
+$("#title").text("The " + userReply[1] + " TV!")
+
+//Change "heading" by ID
+$("#main-heading").text("The " + userReply[2] + " TV!")
+$("#main-heading").fadeOut(30).fadeIn(8000)
+
+// var headingElement = document.getElementById('main-heading')
+// headingElement.innerHTML = `Hello  nice to meet you.`
+
+
+//$("#main-heading").text("<h1> "The _helllo____ TV!"  </h1>") 
+$("main-heading").text("<h1> The " + userReply[1] + "! </h1>")
+$("body").append("<p> His new <b>" + userReply[0] + "</b> screen TV is driving you up the <b>" + userReply[1] +"</b>.  </p>")
+$("body").append("<p> You don't even have room to <b>" + userReply[2] + "</b>. He won't even let you touch the <b>" + userReply[3] + "</b>  remote control </p>")
+$("p").fadeOut(1).fadeIn(12000)
+
+// easier example
+// $("body").append("<p> The " + WordType[1] + " you selected was <b>" + userReply[1] +"</b>.  </p>")
+// $("body").append("<p> The " + WordType[2] + " you selected was <b>" + userReply[2] +"</b>.  </p>")
+// $("body").append("<p> The " + WordType[3] + " you selected was <b>" + userReply[3] +"</b>.  </p>")
+</script>
+
+</body>
+</html>
