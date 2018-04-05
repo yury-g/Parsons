@@ -1,0 +1,65 @@
+
+
+<!DOCTYPE html>
+<html>
+<head>
+	<title>
+		
+
+
+
+	</title>
+
+
+</head>
+<body>
+
+	<h1 id="myHeading">Click Somewhere!</h1>
+
+	<script src = "https://code.jquery.com/jquery-3.3.1.js"></script>
+
+<script>
+
+
+
+// var doSomeAnimation = function(){
+// 		$("#myHeading").offset({
+// 			// offset has left and top attributes
+// 			left: event.pageX,
+// 			top: event.pageY
+
+// 		})
+// }
+
+// // $("html").Click(function(event){
+// // 	$("#myHeading").offset({
+// // 			// offset has left and top attributes
+// // 			left: event.pageX,
+// // 			top: event.pageY
+
+// // 		})
+// // })
+
+
+// // // 		})
+// // // }
+
+	$("html").click(function (event){
+
+console.log("pageX =" + event.pageX)
+
+		$("#myHeading").offset({
+			// offset has left and top attributes
+			left: event.pageX,
+			top: event.pageY
+
+		})
+	})
+
+
+
+</script>	
+
+
+</body>
+</html>

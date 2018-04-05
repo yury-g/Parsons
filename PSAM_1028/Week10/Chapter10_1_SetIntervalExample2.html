@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title> Chapter 10 , Set Intervals</title>
+</head>
+<body>
+
+	<h1 id="myHeading"> Hello World!</h1>
+
+
+	<script src = "https://code.jquery.com/jquery-3.3.1.js"></script>
+
+	<script>
+		
+
+		var leftOffset = 0
+
+		var moveHeading = function(){
+		// 2	
+			$("#myHeading").text("LeftOffSet is: " + leftOffset + "! ")
+//4
+	//		$("#myHeading").text("  `l`  ")
+		
+		// 1	
+			$("#myHeading").offset({left: leftOffset})
+			
+			leftOffset++
+
+			if (leftOffset >= 300 ){
+				leftOffset = 0
+//1
+				console.log("hello")
+
+
+			}
+		}
+
+// changes speed. 
+		setInterval(moveHeading, 30)
+
+
+	</script>
+
+</body>
+</html>
