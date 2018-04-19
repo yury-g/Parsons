@@ -1,0 +1,37 @@
+<!--Introduction to Objects-->
+
+<!DOCTYPE html>
+<html>
+<head>
+	<title> Object Example </title>
+</head>
+<body>
+
+<h1 id="main-heading">"Re-used Mad Lib Example"</h1>
+
+<script src = "https://code.jquery.com/jquery-3.3.1.js"></script>
+<script>
+
+//object example, observe live in chrome. before putting into html.  
+	var myKitty = {
+		name: "Alice",
+		legs: 4, 
+		isAwesome: true
+	}
+
+$("#main-heading").text("My Kitty's Life" )
+
+for (var i = 0; i < 3; i++) 
+{
+$("body").append("<p> The Index Number is <b>" + i + "</b>, OK!</p>")
+}
+
+$("body").append("<p> [ 👇 This Stuff Happens Once ] </p><br>")
+$("body").append("<p>My cat's name is <b>" + myKitty.name + "</b></p>")
+$("body").append("<p> She has " + myKitty.legs + " legs</p>")
+
+
+</script>
+
+</body>
+</html>
