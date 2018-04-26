@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Canvas</title>
+</head>
+
+<body>
+
+    <!--  Makes size of canvas -->
+    <canvas id="canvas" width="400" height="400"></canvas>
+
+
+    <script>
+      // get DOM element called 'canvas'
+    var canvas = document.getElementById("canvas");
+      // setup drawing context (very time)
+      //drawing context is object that has functions and properties for drawing.
+      // "2d image"
+    var ctx = canvas.getContext("2d");
+
+    ctx.fillRect(0,0,10,10)
+
+// make circle
+   ctx.beginPath();
+   ctx.arc(95, 50, 40, 0, 2 * Math.PI);
+   ctx.stroke();
+
+
+// draw line
+ctx.moveTo(0, 0);
+ctx.lineTo(200, 100);
+ctx.stroke();
+
+// triangle stroke
+ctx.beginPath();
+ctx.moveTo(50,10)
+ctx.lineTo(15,70)
+ctx.lineTo(90,70)
+ctx.lineTo(50,10)
+ctx.stroke()
+
+// triangle fill
+ctx.beginPath();
+ctx.moveTo(150,10)
+ctx.lineTo(115,70)
+ctx.lineTo(190,70)
+ctx.lineTo(150,10)
+ctx.fillStyle = "Red"
+ctx.fill()
+
+
+//  Labels:
+ctx.fillStyle = "Black"
+ctx.font = "18px Arial";
+ctx.fillText("Hello Label Position at 10 x 50", 10, 50);
+
+
+for (var i = 0; i < 20 ; i++) {
+  ctx.fillRect(i*10, i*10, 10,10)
+}
+
+
+//grid 
+
+for (var i = 0; i < 20 ; i++) {
+  ctx.fillRect(i*10, i*10, 10,10)
+}
+  
+
+
+    </script>
+</body>
+</html>
