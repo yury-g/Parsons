@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Canvas</title>
+</head>
+
+<body>
+    <canvas id="canvas" width="400" height="400"></canvas>
+
+    <script src="https://code.jquery.com/jquery-2.1.0.js"></script>
+
+    <script>
+    var canvas = document.getElementById("canvas");
+    var ctx = canvas.getContext("2d");
+
+    ctx.fillStyle = "Chocolate";
+    ctx.fillRect(0, 0, canvas.width, canvas.height);
+    
+
+    var smallCircle = function (x, y, radius, fillCircle) {
+
+      ctx.fillStyle = "black";
+
+      ctx.beginPath();
+      ctx.arc(x, y, radius, 0, Math.PI * 2, false); 
+     
+        ctx.fill();
+    };
+
+var bigCircle = function (x, y, radius, fillCircle) {
+
+      ctx.fillStyle = "Red";
+
+      ctx.beginPath();
+      ctx.arc(x, y, radius, 0, Math.PI * 2, false);
+      ctx.fill();
+  
+      }
+    
+
+    $('canvas').click(function (event) {
+      bigCircle(event.offsetX, event.offsetY, 12, true);
+    });
+
+
+$('canvas').mousemove(function (event) {
+      smallCircle(event.offsetX, event.offsetY, 1, true);
+    });
+
+
+
+    </script>
+</body>
+</html>

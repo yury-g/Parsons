@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Canvas</title>
+</head>
+
+<body>
+
+    <!--  Makes size of canvas -->
+    <canvas id="canvas" width="200" height="200"></canvas>
+
+
+    <script>
+      // get DOM element called 'canvas'
+    var canvas = document.getElementById("canvas");
+      // setup drawing context (very time)
+      //drawing context is object that has functions and properties for drawing.
+      // "2d image"
+    var ctx = canvas.getContext("2d");
+
+    ctx.fillRect(0,0,10,10)
+
+    var circle = function (x, y, radius, fillCircle) {
+      ctx.beginPath();
+      ctx.arc(x, y, radius, 0, Math.PI * 2, false);
+      if (fillCircle) {
+        ctx.fill();
+      } else {
+        ctx.stroke();
+      }
+    };
+
+    var drawSnowman = function (x, y) {
+      ctx.fillStyle = "Black";
+      ctx.lineWidth = 4;
+
+      circle(x + 50, y + 110, 40, false);
+      circle(x + 50, y + 40, 30, false);
+      circle(x + 40, y + 35, 5, true);
+      circle(x + 60, y + 35, 5, true);
+
+      circle(x + 50, y + 90, 5, true);
+      circle(x + 50, y + 110, 5, true);
+      circle(x + 50, y + 130, 5, true);
+
+      ctx.fillStyle = "Orange";
+      circle(x + 50, y + 45, 5, true);
+    };
+
+    drawSnowman(0, 0);
+    drawSnowman(100, 20);
+    </script>
+</body>
+</html>

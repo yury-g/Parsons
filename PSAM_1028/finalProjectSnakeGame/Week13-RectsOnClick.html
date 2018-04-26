@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Canvas</title>
+</head>
+
+<body>
+    <canvas id="canvas" width="400" height="400"></canvas>
+    <script src="https://code.jquery.com/jquery-2.1.0.js"></script>
+
+    <script>
+    var canvas = document.getElementById("canvas");
+    var ctx = canvas.getContext("2d");
+
+    ctx.fillStyle = "PaleGreen";
+    ctx.fillRect(0, 0, canvas.width, canvas.height);
+    
+
+    var blackLineBoxNameSize = function (x, y, length, width) {
+      ctx.strokeStyle = "Green"
+     ctx.lineWidth = 4
+    ctx.strokeRect(x, y, x, y);
+
+
+    }
+
+
+var smallBoxNameColor = function (x, y, myColor) {
+   
+      ctx.fillStyle = myColor;
+      ctx.fillRect(x, y, 5 , 5)
+  }
+    
+
+    $('canvas').click(function (event) {
+      blackLineBoxNameSize(event.offsetX, event.offsetY, 105, 105);
+    })
+
+
+$('canvas').mousemove(function (event) {
+      smallBoxNameColor(event.offsetX, event.offsetY, "Turquoise"  )
+    })
+
+
+
+    </script>
+</body>
+</html>
